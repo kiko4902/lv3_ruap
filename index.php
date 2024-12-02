@@ -41,7 +41,7 @@
                     padding: 0.25em 2em 0.25em 0em;
                     border: 0 none;
                 }
-            </style>a
+            </style>
     </head>
     <body>
         <h1>Register here!</h1>
